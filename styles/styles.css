@@ -13,8 +13,12 @@ h1 {
 p {
   text-align: center;
 }
-iframe {
-	display: block;
-	width:;
-	margin: 0 auto;
+body { .iframe 
+
+width: 100%;
+
+margin: 0 auto;
+
+text-align: center;
+
 }
