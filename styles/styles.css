@@ -27,7 +27,7 @@ text-align: center;
   border: none; /* Remove borders */
   color: black; /* White text */
   padding: 100px 100px; /* Some padding */
-  font-size: 50px; /* Set a font size */
+  font-size: 100px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 
 }
