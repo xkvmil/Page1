@@ -24,9 +24,9 @@ text-align: center;
 }
 .fab {
   background-color: #4c0080; /*  background */
-  border: ; /* Remove borders */
+  border: none; /* Remove borders */
   color: black; /* White text */
-  padding: 12px 16px; /* Some padding */
+  padding: 24px 32px; /* Some padding */
   font-size: 50px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 
