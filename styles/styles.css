@@ -26,7 +26,7 @@ text-align: center;
   background-color: #4c0080; /*  background */
   border: none; /* Remove borders */
   color: black; /* White text */
-  padding: 24px 32px; /* Some padding */
+  padding: 100px 100px; /* Some padding */
   font-size: 50px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 
